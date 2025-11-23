@@ -12,9 +12,6 @@
   <a href="https://linkedin.com/in/3mrmousa" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
   </a>
-  <a href="tel:+201015052567" style="text-decoration:none; margin-left:20px; color:#0e75b6; font-weight:bold; font-size:18px;">
-    📞 +20 101 505 2567
-  </a>
 </p>
 
 ---
