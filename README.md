@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,cpp,cs,mysql" width="70" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,git,github,cpp,cs,mysql" width="100" />
 </p>
 
 ---
