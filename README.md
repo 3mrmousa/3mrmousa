@@ -34,14 +34,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mrmousa&show_icons=true&count_private=true&theme=tokyonight&hide_rank=false&include_all_commits=true" alt="3mrmousa" width="700" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mrmousa&layout=compact&theme=tokyonight" alt="Top Languages" width="700" />
-</p>
