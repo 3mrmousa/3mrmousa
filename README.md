@@ -24,6 +24,8 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" />
 </p>
 
 ---
