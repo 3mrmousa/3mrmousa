@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Amr Mousa 👋
-
 ### Frontend & Web Developer | Building Clean UI & Scalable Web Apps
 
 <img src="https://komarev.com/ghpvc/?username=3mrmousa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -34,17 +33,20 @@
 ## 🛠️ Tech I Work With
 
 **Frontend**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" />
 </p>
 
 **Backend**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" />
 </p>
 
 **Databases & ORMs**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="48" />
@@ -69,6 +71,7 @@ Digital Egypt Pioneers Program (MCIT) · Jun–Dec 2025
 
 </td>
 </tr>
+
 <tr>
 <td width="60%">
 
@@ -82,6 +85,7 @@ Digital Egypt Pioneers Initiative, delivered by SYE English Community · Jun–D
 
 </td>
 </tr>
+
 <tr>
 <td width="60%">
 
@@ -95,6 +99,7 @@ Educative · 8 hours
 
 </td>
 </tr>
+
 <tr>
 <td width="60%">
 
@@ -108,6 +113,7 @@ University of Michigan, via Coursera — *Postgres for Everybody*
 
 </td>
 </tr>
+
 <tr>
 <td width="60%">
 
@@ -117,10 +123,29 @@ Boot.dev
 </td>
 <td width="40%" align="center">
 
-[🔗 Verify](https://www.boot.dev/certificates/d3296948-f8ff-4bd5-a1bf-a9253f0347d0)
+<a href="https://www.boot.dev/certificates/d3296948-f8ff-4bd5-a1bf-a9253f0347d0" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d3296948-f8ff-4bd5-a1bf-a9253f0347d0.jpeg?v=1786982662" width="180" alt="Boot.dev Learn HTTP Servers in TypeScript certificate" />
+</a>
 
 </td>
 </tr>
+
+<tr>
+<td width="60%">
+
+**Learn HTTP Clients in TypeScript**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/eca1036a-680a-496e-be15-ebc7b9b6264e" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/eca1036a-680a-496e-be15-ebc7b9b6264e.jpeg?v=1787578035" width="180" alt="Boot.dev Learn HTTP Clients in TypeScript certificate" />
+</a>
+
+</td>
+</tr>
+
 </table>
 
 <br>
