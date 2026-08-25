@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Amr Mousa 👋
-### Frontend & Web Developer | Building Clean UI & Scalable Web Apps
+### Frontend Developer building full-stack projects | React, Next.js, Node.js & TypeScript
 
 <img src="https://komarev.com/ghpvc/?username=3mrmousa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
@@ -27,7 +27,13 @@
 ## 🧩 Languages I Know
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java" />
+</p>
+
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,bash" />
 </p>
 
 ## 🛠️ Tech I Work With
