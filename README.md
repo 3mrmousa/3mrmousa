@@ -152,6 +152,24 @@ Boot.dev
 </td>
 </tr>
 
+<tr>
+<td width="60%">
+
+**Introduction to Python Course Certificate**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/eca1036a-680a-496e-be15-ebc7b9b6264e" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a8579c78-858b-4e8b-b259-f490ea794bce.jpeg?v=1787735425" width="180" alt="Introduction to Python Course Certificate" />
+</a>
+
+</td>
+</tr>
+
+
+
 </table>
 
 <br>
