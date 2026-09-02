@@ -168,7 +168,21 @@ Boot.dev
 </td>
 </tr>
 
+<tr>
+<td width="60%">
 
+**Learn Linux**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/65ba4c8d-f0c4-4f9b-bea8-fd6a0b74dca4" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/65ba4c8d-f0c4-4f9b-bea8-fd6a0b74dca4.jpeg?v=1788350141" width="180" alt="Boot.dev Learn Linux certificate" />
+</a>
+
+</td>
+</tr>
 
 </table>
 
