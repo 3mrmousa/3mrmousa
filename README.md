@@ -184,6 +184,22 @@ Boot.dev
 </td>
 </tr>
 
+<tr>
+<td width="60%">
+
+**Learn Git**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/767e60c6-32b2-42b6-a082-35cc5d50fadf" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/767e60c6-32b2-42b6-a082-35cc5d50fadf.jpeg?v=1788802981" width="180" alt="Boot.dev Learn Git certificate" />
+</a>
+
+</td>
+</tr>
+
 </table>
 
 <br>
