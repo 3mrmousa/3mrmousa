@@ -200,6 +200,22 @@ Boot.dev
 </td>
 </tr>
 
+<tr>
+<td width="60%">
+
+**Learn Object Oriented Programming in Python**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/cf61849b-aeff-48e3-90a4-01acd61fad36" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cf61849b-aeff-48e3-90a4-01acd61fad36.jpeg?v=1789581476" width="180" alt="Boot.dev Learn Object Oriented Programming in Python certificate" />
+</a>
+
+</td>
+</tr>
+
 </table>
 
 <br>
