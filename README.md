@@ -216,6 +216,54 @@ Boot.dev
 </td>
 </tr>
 
+<tr>
+<td width="60%">
+
+**Learn Go**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/6e25e133-10e3-41e5-8dfa-5dc5e6d95fb6" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6e25e133-10e3-41e5-8dfa-5dc5e6d95fb6.jpeg?v=1790905327" width="180" alt="Boot.dev Learn Go certificate" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="60%">
+
+**Learn HTTP Clients in Go**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/bcf9d13f-64cc-40b0-8c68-88879e85d782" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bcf9d13f-64cc-40b0-8c68-88879e85d782.jpeg?v=1791151948" width="180" alt="Boot.dev Learn HTTP Clients in Go certificate" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="60%">
+
+**Learn HTTP Servers in Go**
+Boot.dev
+
+</td>
+<td width="40%" align="center">
+
+<a href="https://www.boot.dev/certificates/cf500b25-bda5-46d8-8521-9cc1fcff29ef" target="_blank">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/cf500b25-bda5-46d8-8521-9cc1fcff29ef.jpeg?v=1791308499" width="180" alt="Boot.dev Learn HTTP Servers in Go certificate" />
+</a>
+
+</td>
+</tr>
+
 </table>
 
 <br>
